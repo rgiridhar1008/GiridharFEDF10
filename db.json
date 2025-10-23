@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Complete React Hooks assignment",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Test To-Do List CRUD operations",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "title": "Submit Week-8 lab report",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": " fedf",
+      "completed": true
+    }
+  ]
+}
